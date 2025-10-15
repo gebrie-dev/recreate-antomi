@@ -21,7 +21,7 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Antomi - Multi-purpose eCommerce Store",
   description: "Modern responsive PrestaShop theme",
-  generator: "v0.app",
+  
 }
 
 export default function RootLayout({
